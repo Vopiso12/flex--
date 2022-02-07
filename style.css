@@ -1,0 +1,51 @@
+.line-1{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.line-2{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.line-3{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.line-4{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.block1{
+    width: 200px;
+    height: 200px;
+    background-color: blue;
+    margin: 10px 5px;  
+}
+.block2{
+    width: 200px;
+    height: 200px;
+    background-color: green;
+    margin: 10px 5px;
+}
+.block3{
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin: 10px 5px;
+}
+.block4{
+    width: 200px;
+    height: 200px;
+    background-color: yellow;
+    margin: 10px 5px;
+}
+.text{
+    display: flex;
+    justify-content: center;
+   margin-top: 155px;
+    font-size: 25px;
+    color: red;
+}
